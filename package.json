@@ -9,7 +9,7 @@
     "lint": "next lint",
     "server": "node src/backend/server.js",
     "nextbuild": "next build",
-    "nextstart": "next build && next start"
+    "nextstart": "next start"
   },
   "dependencies": {
     "@aws-amplify/ui-react": "^5.0.2",
