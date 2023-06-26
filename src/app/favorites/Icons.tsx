@@ -1,4 +1,3 @@
-
 import Link from 'next/link';
 import { Prefecture } from '@/globals';
 import './Icons.css';
